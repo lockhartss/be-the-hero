@@ -1,7 +1,4 @@
 const connection = require('../database/connection');
-const { connect } = require('../routes');
-const { response } = require('express');
-const { index } = require('./OngController');
 
 module.exports = {
    
